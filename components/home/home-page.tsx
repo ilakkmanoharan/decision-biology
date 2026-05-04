@@ -369,11 +369,11 @@ export function HomePage() {
           <div className="max-w-xl">
             <SectionEyebrow>Research</SectionEyebrow>
             <h2 className="mt-4 text-3xl font-semibold tracking-tight sm:text-4xl">
-              Papers, frameworks, and downloadable briefs.
+              Research direction and technical framing.
             </h2>
             <p className="mt-6 text-lg leading-8 text-zinc-400">
-              Signal–channel–decision framing, Nature Foundation Models direction, and supporting manuscripts—hosted for
-              partners and collaborators.
+              Signal–channel–decision framing and Nature Foundation Models positioning—how we think about cellular
+              decisions under noise.
             </p>
           </div>
           <Link

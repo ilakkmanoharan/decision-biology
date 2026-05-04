@@ -125,45 +125,6 @@ export const useCases = [
   "Programmable biology workflows",
 ] as const;
 
-/** PDFs served from /public/documents — URL-safe filenames */
-export const publicDocuments = [
-  {
-    title: "Decision Biology (v5)",
-    description: "Current technical framing and narrative for the platform and vision.",
-    file: "/documents/decision-biology-v5.pdf",
-  },
-  {
-    title: "Decision Biology (v3)",
-    description: "Earlier comprehensive draft of the Decision Biology framework.",
-    file: "/documents/decision-biology-v3.pdf",
-  },
-  {
-    title: "Scientific foundation models (v2)",
-    description: "Nature Foundation Models positioning and scientific direction.",
-    file: "/documents/scientific-foundation-models-v2.pdf",
-  },
-  {
-    title: "Paper 01",
-    description: "Supporting research manuscript.",
-    file: "/documents/paper01-1.pdf",
-  },
-  {
-    title: "SIR — Ajay Srinivasan",
-    description: "Student research proposal aligned with information-theoretic cellular signaling.",
-    file: "/documents/sir-ajay-srinivasan.pdf",
-  },
-  {
-    title: "SIR",
-    description: "Supplementary independent research (SIR) document.",
-    file: "/documents/sir.pdf",
-  },
-  {
-    title: "Startup overview",
-    description: "Founder background, positioning, and company narrative (internal-form snapshot).",
-    file: "/documents/decision-biology-startup.pdf",
-  },
-] as const;
-
 export const researchPillars = [
   {
     title: "Framework",

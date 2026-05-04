@@ -1,7 +1,10 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# Local-only materials (not part of the public site)
+# Local-only materials — never commit (specs, source PDFs, internal notes)
 private/
+
+# Public-site PDF copies (keep originals under private/documents/; copy locally if needed for dev)
+public/documents/*.pdf
 
 # dependencies
 /node_modules

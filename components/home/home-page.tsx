@@ -364,30 +364,6 @@ export function HomePage() {
         </div>
       </section>
 
-      <section id="founder" className="relative border-y border-white/10 bg-white/[0.025]">
-        <div className="mx-auto max-w-7xl px-6 py-24 lg:px-8">
-          <div className="flex flex-col gap-10 overflow-hidden rounded-[2.25rem] border border-white/10 bg-black/40 p-8 sm:flex-row sm:items-center sm:justify-between sm:p-12">
-            <div className="max-w-xl">
-              <SectionEyebrow>Founder</SectionEyebrow>
-              <h2 className="mt-4 text-3xl font-semibold tracking-tight sm:text-4xl">
-                Building at the intersection of systems engineering and biological modeling.
-              </h2>
-              <p className="mt-6 text-lg leading-8 text-zinc-400">
-                Meet Ilakkuvaselvi Manoharan—solo founder, ~20 years shipping complex software, now focused on
-                information-theoretic AI for cellular decisions.
-              </p>
-            </div>
-            <Link
-              href="/founder"
-              className="inline-flex shrink-0 items-center gap-2 rounded-full border border-white/15 px-6 py-3 text-sm font-semibold text-white transition hover:border-emerald-400/40 hover:bg-white/[0.06]"
-            >
-              Founder story &amp; links
-              <ArrowRight className="h-4 w-4" />
-            </Link>
-          </div>
-        </div>
-      </section>
-
       <section id="research" className="relative mx-auto max-w-7xl px-6 py-24 lg:px-8">
         <div className="flex flex-col gap-10 rounded-[2.25rem] border border-white/10 bg-white/[0.03] p-8 sm:flex-row sm:items-center sm:justify-between sm:p-12">
           <div className="max-w-xl">

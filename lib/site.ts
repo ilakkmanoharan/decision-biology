@@ -36,7 +36,7 @@ export const founder = {
   ],
 } as const;
 
-/** Main nav: section anchors on home; dedicated routes for Research & Founder */
+/** Main nav: section anchors on home; Research has its own route */
 export const navItems = [
   { label: "Thesis", href: "/#thesis" },
   { label: "Platform", href: "/#platform" },
@@ -44,7 +44,6 @@ export const navItems = [
   { label: "Applications", href: "/#applications" },
   { label: "Why us", href: "/#why" },
   { label: "Nature FM", href: "/#nature-foundation-models" },
-  { label: "Founder", href: "/founder" },
   { label: "Research", href: "/research" },
 ] as const;
 

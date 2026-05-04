@@ -13,9 +13,6 @@ export function SiteFooter() {
           <Link href="/#platform" className="hover:text-white">
             Platform
           </Link>
-          <Link href="/founder" className="hover:text-white">
-            Founder
-          </Link>
           <Link href="/research" className="hover:text-white">
             Research
           </Link>

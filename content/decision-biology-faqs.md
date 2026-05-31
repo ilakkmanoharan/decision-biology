@@ -57,7 +57,7 @@ Long-term, this becomes a scientific intelligence layer for natural systems.
 
 ## Where do you live now, and where would the company be based after YC?
 
-Aurora / Naperville, Illinois.
+Naperville, Illinois.
 
 As soon as I get funding, I would like to base the company in San Francisco.
 
@@ -156,7 +156,6 @@ Current progress includes:
 * conceptual architecture for ASRA
 * Decision Biology framework
 * ASRA research paper
-* ARC-AGI experimentation
 * early reasoning-system prototypes
 * transition logging and world-model experiments
 * ongoing work on adaptive experimentation systems

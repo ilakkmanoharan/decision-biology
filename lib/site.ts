@@ -45,6 +45,7 @@ export const navItems = [
   { label: "Why us", href: "/#why" },
   { label: "Nature FM", href: "/#nature-foundation-models" },
   { label: "Research", href: "/research" },
+  { label: "FAQ", href: "/faq" },
 ] as const;
 
 export const problemCards = [
